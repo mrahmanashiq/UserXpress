@@ -10,3 +10,6 @@
 //= require bootstrap
 //= require_self
 //= require ocb
+//= require ocb.message.box
+//= require jquery-confirm.min
+//= require ocb.init

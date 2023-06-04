@@ -13,4 +13,6 @@
 *= require mobile
 *= require_self
 *= require style
+*= require font-awesome/css/all.min
+*= require jquery-confirm.min
 */
