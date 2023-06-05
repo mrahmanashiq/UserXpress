@@ -24,7 +24,7 @@ class ContactDetails {
     }
 
     static mapping = {
-        version(false)
+        version(true) // mapping indicates that optimistic locking is enabled for the ContactDetails entity
     }
 }
 
