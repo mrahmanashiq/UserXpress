@@ -13,11 +13,12 @@ This is a project developed as part of the Bit Mascot training program. It focus
 
 On the first day of the training program, the following tasks were completed:
 
-- Project initialization: The project structure was set up to organize the code and resources effectively.
-
-- Understanding domain classes and MVC architecture: The concept of domain classes, representing the data model, was learned. The MVC architecture, which separates the application into Model, View, and Controller components, was also explained.
-
-- Member service, controller, and view: The Member service handles business logic related to members, while the Member controller manages requests and interacts with the service. The view (GSP file) is responsible for rendering the member-related user interface.
+- Set up the project structure and installed necessary dependencies.
+- Researched and learned about Grails framework.
+- Reseach and learned about MVC Architecture
+- Explored Grails controllers and services.
+- Implemented basic CRUD operations for the Contact entity.
+- Tested and verified the functionality.
 
 ## Day 2
 
@@ -30,4 +31,12 @@ On the second day of the training program, the following tasks were completed:
 - Authentication and authorization features: Authentication functionality was added to verify user credentials during login. Authorization was implemented to control access to certain actions based on user roles.
 
 - Contact Group: A contact group feature was created to organize members into specific groups. Members could be associated with contact groups, and operations like adding, removing, and updating group members were provided.
+
+## Day 3
+- Researched and studied Grails domain entity relationship.
+- Designed and implemented the entity relationship for Contact and ContactGroup entities.
+- Updated the database schema according to the entity relationship.
+- Integrated jQuery Ajax calls for improved user experience.
+- Researched and studied Grails file and image upload.
+- Implemented file and image upload functionality for the Contact entity.
 
